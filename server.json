@@ -1,0 +1,12 @@
+{
+    "servers": [
+        {
+            "name": "bogas_anisette",
+            "address": "http://192.168.0.247:6969"
+        }
+        {
+            "name": "bogas_anisette_2",
+            "address": "http://192.168.0.147:6969"
+        }
+    ]
+}
